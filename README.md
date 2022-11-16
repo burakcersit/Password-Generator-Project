@@ -8,5 +8,3 @@ https://burakcersit.github.io/Password-Generator-Project/
 ## Screenshoot:
 ![alttext](./img/03-javascript-homework-demo.png)
 
-## Acceptence Criteria:
-![alttext](./img/Screenshot%202022-09-19%20150303.png)
